@@ -1,2 +1,2 @@
 # Test-Project
-# Building a personal project game
+Building a personal project game
